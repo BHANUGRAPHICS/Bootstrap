@@ -1,0 +1,67 @@
+/* ADD YOUR CUSTOM STYLES*/
+
+.bg-teal, .btn-teal{
+    background-color: #236666 !important;
+
+}
+.text-teal{
+    color: #236666!important;
+}
+
+.btn-info{
+    background: linear-gradient(45deg, darkslategray, cornflowerblue);
+}
+.btn-primary, .bg-primary{
+    background: linear-gradient(45deg, navy, dodgerblue);
+}
+.bg-danger, .btn-danger{
+    background: linear-gradient(45deg, darkred, red);
+}
+.bg-light-blue, .bg-light-blue:focus{
+    background-color: lightblue;
+}
+.bg-success, .btn-success{
+    background: linear-gradient(45deg, darkgreen, green);
+}
+.bg-warning{
+    background: linear-gradient(45deg, darkorange, orangered);
+}
+.progress{
+    height: 35px;
+    border-radius: 25px;
+    box-shadow: 0 5px 10px gray;
+}
+.progress-bar{
+    border-radius: 25px;
+    font-size: 18px;
+}
+.table{
+    box-shadow: 0px 5px 10px gray;
+}
+.table-light-green{
+    background-color: lightgreen;
+}
+.page-container{
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.pagination{
+    margin: 0;
+}
+.bg-light-green{
+    background-color: lightgreen;
+}
+.dropdown-item:hover{
+    background:linear-gradient(45deg, darkred, red);
+    color: white !important;
+    box-shadow: 0px 5px 10px grey;
+}
+.carousel .carousel-indicators li{
+    width: 30px;
+    height: 8px;
+    border-radius: 0%;
+}
+.carousel-caption {
+    text-shadow: 0px 5px 10px black;
+}
